@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Sinatra Project"
-date:   2016-10-18 22:00:03 +0000
+date:   2016-10-18 18:00:03 -0400
 ---
 
 
