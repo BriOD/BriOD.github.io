@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two week challenge "
-date:   2016-11-28 04:08:36 +0000
+date:   2016-11-27 23:08:36 -0500
 ---
 
 
@@ -9,7 +9,7 @@ date:   2016-11-28 04:08:36 +0000
 
 I’ve had a busy, distracting November. There was thanksgiving. I had a poker trip. The election was very distracting, and depressing. The point is that I’ve been distracted from programming. In the next two weeks I want to make up some of the programming time I lost due to these distractions, and regain a high level of focus. 
 
-![](http://imgur.com/d3tjRfN)
+![](http://i.imgur.com/d3tjRfN.jpg?1)
 
 In the poker world it’s common place for people to make [“prop bets”](https://theringer.com/jason-mercier-world-series-of-poker-three-bracelets-309f6886491a#.c5xpqkenn) on personal performance. For instance, a player will declare a challenge, stating they will make x amount profit over y amount of time under specific conditions. The challenge is issued, and then anyone that doesn’t think they can do it can bet against them. A good example would be a $10k profit in one month, playing $2/5 cash games. 
 
