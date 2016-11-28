@@ -17,7 +17,7 @@ When you break this challenge down, the incentive for the player is purely to de
 
 In a world driven by self motivation, the prop bets are a way of motivating people to work. In the process also holding yourself accountable, and forcing yourself to stay consistent. It’s easy enough to put in 200 hours, but putting in 200 quality hours is a different story. 
 
-I want to emulate the benefits of prop bets, and point it towards programming. To make up for a lack of focus the last couple week, I want to challenge myself to do 100 hours of programming over the next two weeks. I’m not going to betting anyone that I can or cannot complete this challenge. By blogging about it, and putting it out there, I will be holding myself accountable to complete it. 
+I want to emulate the benefits of prop bets, and point it towards programming. To make up for a lack of focus the last couple week, I want to challenge myself to do 100 hours of programming over the next two weeks. I’m not going to be betting anyone that I can or cannot complete this challenge. By blogging about it, and putting it out there, I will be holding myself accountable to complete it, and achieve the same results. 
 
 I don’t just want 100 hours of programming, I want 100 hours of quality programming. There’s a couple things I want to achieve during the 2 weeks: 
 1) I want to complete the rails section on learn.co, I’m currently a little over 60% done with the section. 
@@ -27,4 +27,4 @@ I don’t just want 100 hours of programming, I want 100 hours of quality progra
 
 ![](http://i2.kym-cdn.com/photos/images/newsfeed/000/177/486/tumblr_lrp6hz6Bxd1qjuciho2_500.gif)
 
-This challenge will start tomorrow, Monday Nov 8th. Whether I accomplish everything or not I will post a blog about the experience at the end of the two weeks. I will have to make a couple personal sacrifices to complete this challenge. I have aquired some bad habits over the last couple weeks. I can't make light of how much the election has affected me, and introduced bad habits that take away from programming. I hope to achieve a high level of focus, and learn a lot. One way or the other it will be a very productive two weeks!
+This challenge will start tomorrow, Monday Nov 8th. Whether I accomplish everything or not I will post a blog about the experience at the end of the two weeks. I have aquired some bad habits over the last couple weeks. I will have to make a couple personal sacrifices to complete this challenge. I can't make light of how much the election has affected me, and introduced bad habits that take away from programming. I hope to achieve a high level of focus, and learn a lot. One way or the other it will be a very productive two weeks!
