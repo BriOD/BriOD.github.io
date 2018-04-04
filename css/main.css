@@ -88,23 +88,23 @@ header {
   margin-top: 100px;
 }
 
-#yechiel-k-cover {
-  background-image: url('/images/fcm6zBK.jpg');
+#brian-cover {
+  background-image: url('/img/wsopFT.jpg');
   -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
 }
 
-#yechiel-k-card {
-  background-image: url('/images/yechiel-k.JPG');
+#brian-card {
+  background-image: url('/images/brian.JPG');
   -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
 }
 
-#yechiel-k-card:hover {
+#brian-card:hover {
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -o-transform: scale(1.1);
