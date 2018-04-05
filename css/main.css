@@ -97,7 +97,7 @@ header {
 }
 
 #brian-card {
-  background-image: url('/img/wsopFT.jpg');
+  background-image: url('/img/borg6max.jpg');
   -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   -o-transition: 0.2s;
@@ -201,7 +201,7 @@ input.submit {
   width: 190px;
   top: -110px;
   left: 0;
-  right: 0;
+  right: auto;
   margin: 0 auto;
   border-radius: 100px;
 }
