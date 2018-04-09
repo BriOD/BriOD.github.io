@@ -22,6 +22,7 @@ html,
 body {
   width: 100vw;
   min-height: 100vh;
+  background: linear-gradient(to right, rgba(226,226,226,1) 0%, rgba(226,226,226,0.99) 21%, rgba(209,209,209,0.97) 53%, rgba(254,254,254,0.95) 100%);
 }
 
 h1,
@@ -90,6 +91,7 @@ header {
 
 #brian-cover {
   background-image: url('/img/cloud-programming-languages.jpg');
+  margin-top: 55px;
   -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   -o-transition: 0.2s;
@@ -277,7 +279,7 @@ input.submit {
 .description-holder h4 {
   font-family: 'GothamPro-Medium', Helvetica, Arial, sans-serif;
   font-size: 16px;
-  font-weight: normal;
+  font-weight: bold;
   padding-bottom: 8px;
   margin: 8px 0;
 }
