@@ -261,7 +261,6 @@ input.submit {
 .lang-icons {
   display: grid;
   grid-gap: 3px;
-  border: 2px solid rgb(5, 5, 22);
   background: rgb(208, 204, 204);
   grid-template-columns: repeat(auto-fit, minmax(33px, 1fr));
   grid-template-rows: 1fr;
