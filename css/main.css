@@ -263,7 +263,7 @@ input.submit {
   grid-gap: 3px;
   border: 2px solid blue;
   background: #ddd;
-  grid-template-columns: repeat(auto-fit);
+  grid-template-columns: repeat(auto-fit, minmax(33px, 1fr));
   grid-template-rows: 1fr;
 
 }
