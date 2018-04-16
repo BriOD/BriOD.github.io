@@ -258,6 +258,12 @@ input.submit {
   margin: 0 auto;
 }
 
+.lang-icons {
+  display: grid;
+  grid-template-columns: auto;
+
+}
+
 .title-holder {
   font-family: 'GothamPro-Bold', Helvetica, Arial, sans-serif;
   font-size: 18px;
